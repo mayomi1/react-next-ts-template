@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/react-transition-group": "^2.9.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "compression": "^1.7.4",
     "dotenv": "^8.0.0",
     "express": "^4.16.4",
